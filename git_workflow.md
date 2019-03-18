@@ -1,7 +1,5 @@
 # Git Workflow - help guide
 
-This is thought for being used with GitLab but will work pretty much as well for GitHub.
-
 ## General
 
 **⚠** Do not **ever** push on `master`. **⚠**
