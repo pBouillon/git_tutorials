@@ -1,7 +1,5 @@
 # 📑 Emoji Commit List 
 
-![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)
-
 ## Summary
 
 Some commits are way more explicits thanks to a little emoji in the front. This
