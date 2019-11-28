@@ -13,6 +13,8 @@ regarding the commit theme.
 |  🐛  | Bug fixing       | `🐛 Fix invalid regex format` |
 |  🗑   | Deletion         | `🗑 Remove outdated tests` |
 |  📚  | Documentation    | `📚 Document all FooBarService methods` |
+|  🌱  | Initializaition  | `🌱 Initial commit` |
+|  🛠  | Merge  | `🛠 Merge master into current branch` |
 |  ✨  | New feature      | `✨ Add png support` |
 |  🎯  | Refactoring      | `🎯 Refactor JohnDoeFactory` |
 |  ✅  | Test             | `✅ Add DatabaseService unit tests` |
