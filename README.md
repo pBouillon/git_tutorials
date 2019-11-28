@@ -4,7 +4,11 @@
 
 ## Summary
 
-Here are some of my practices with `git`: how to work with a team using `git`, how to write clean commits (imho), etc. 
+Here are some of my practices with `git`
+
+- how to work with a team using `git`
+- how to write clean commits (imho)
+- etc
 
 ## Contributing
 
