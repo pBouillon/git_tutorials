@@ -2,7 +2,7 @@
 
 ## Summary
 
-Some commits are way more explicits thanks to a little emoji in the front. This
+Some commits are way more explicit thanks to a little emoji in the front. This
 list aims to provide concise and opiniated suggestions for those emojis to add,
 regarding the commit theme.
 
