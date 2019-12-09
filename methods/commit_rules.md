@@ -94,12 +94,12 @@ short lines of text is not a very inspiring thing.
 To solve this, I suggest to **put a little tag in front of each commit message**
 . My favorite way to use it is with emojis: it is pretty understandable by
 anyone and only use one character on the 50 recommended. Moreover, each team
-could use its own emoji list.
+can build and use its own custom emoji list.
 
 This is also a good way to go back to a specific moment (were you looking for
 documentation ? Bug fixing ? etc.)
 
-If you want a ready-to-use list, I suggest you to check [my emoji list](https://github.com/pBouillon/git_tutorials/blob/master/methods/emoji_commit_list.md)
+If you want a ready-to-use list, I suggest you to [check my emoji list](https://github.com/pBouillon/git_tutorials/blob/master/methods/emoji_commit_list.md)
 which is limited to 10 emojis to avoid confusion among the team.
 
 ```text
