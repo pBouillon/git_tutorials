@@ -4,13 +4,18 @@
 
 ## Summary
 
-Here are some of my practices with `git`
+Here are some of my practices with git and some use cases.
 
-- how to work with a team using `git`
-- how to write clean commits (imho)
-- etc
+Workflows, tips or even templates to properly develop your projects in GitLab
+and GitHub, you will find plenty of resources to exploit !
+
+- [Emoji commits reference](./methods/emoji_commit_list.md)
+- [Git workflow step by step](./methods/git_workflow.md)
+- [Templates](./templates/)
+  - [SCRUM](./templates/SCRUM/)
 
 ## Contributing
 
-I'm far from being an expert with everything and especially in `git`,
-please feel free to add a pull request to suggest others workflows or practices ! :smile:
+I'm far from being an expert with everything and especially in git,
+please feel free to add a pull request to suggest others workflows or
+practices ! :smile:
