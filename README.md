@@ -11,7 +11,7 @@ and GitHub, you will find plenty of resources to exploit !
 
 - Methods
   - [Commit rules](./methods/commit_rules.md)
-  - [Emoji commits reference](./methods/emoji_commit_list.md)
+  - [Emoji commits list](./methods/emoji_commit_list.md)
   - [Git workflow step by step](./methods/git_workflow.md)
 - Templates
   - [SCRUM](./templates/SCRUM/)
