@@ -1,4 +1,4 @@
-# Rétrospective du sprint n°$1
+# Rétrospective du sprint n°${1: Numéro du sprint}
 
 ## Présents
 

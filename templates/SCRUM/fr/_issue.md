@@ -1,8 +1,10 @@
-# $1
+# ${1: Titre de l'issue (court !)}
 
 ## Contexte
 
-Cette issue est relative à la story #$2. $3
+Cette issue est relative à la story #${2: numéro de l'issue de la story}.
+
+${3: Résumé de l'issue}
 
 ## Definition of Ready (DoR)
 
@@ -19,4 +21,4 @@ Cette issue est relative à la story #$2. $3
 
 - [ ] Le code est testé unitairement
 - [ ] Le code est documenté
-- [ ] $4
+- [ ] ${4: points pour considérer l'issue comme finie et acceptée}
