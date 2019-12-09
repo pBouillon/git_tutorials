@@ -13,5 +13,5 @@
 |:-------------------|:----------------|:------------------------|
 |                    |                 |                         |
 
-_Note:_ Chacun des points suivis d'un `❕` sont des points redis/appuyés
-par un autre membre de l'équipe
+_Note:_ Chacun des points suivis d'un `❕` sont des points re-dis/appuyés
+par un autre membre de l'équipe.
