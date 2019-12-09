@@ -17,7 +17,7 @@
 
 ### Bilan
 
-- ${4: décisions et conclusions à cette entrevue}
+- ${4: décisions et conclusions de cette entrevue}
 
 ___
 
