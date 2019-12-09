@@ -72,7 +72,7 @@ Instead of:
 ```text
 > Fix bug
 > Fix again
-> Fix this time il will work
+> Fix this time it will work
 > anjfes,hlsef
 ```
 
