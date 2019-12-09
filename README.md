@@ -19,5 +19,5 @@ and GitHub, you will find plenty of resources to exploit !
 ## Contributing
 
 I'm far from being an expert with everything and especially in git,
-please feel free to add a pull request to suggest others workflows or
+please feel free to add a pull request to suggest other workflows or
 practices ! :smile:
