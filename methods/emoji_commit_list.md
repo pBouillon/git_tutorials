@@ -11,7 +11,7 @@ regarding the commit theme.
 | emoji | theme            | example |
 |:-----:|:-----------------|:--------|
 |  🐛  | Bug fixing       | `🐛 Fix invalid regex format` |
-|  🔧  | Configuration    | `🔧 Add appsettings.json file` |
+|  ⚙️️  | Configuration    | `⚙️️ Add appsettings.json file` |
 |  🗑   | Deletion         | `🗑 Remove outdated tests` |
 |  📚  | Documentation    | `📚 Document all FooBarService methods` |
 |  🌱  | Initializatition  | `🌱 Initial commit` |
