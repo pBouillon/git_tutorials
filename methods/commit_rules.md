@@ -33,6 +33,10 @@ Update config file
 - Update server IP address
 ```
 
+📑 _Please note that since 50 is pretty short, and to avoir making the message_
+_harder to understand by burdening it, you generally should avoid adding a final_
+_dot to your commit._
+
 ### Commit tenses
 
 Your commit should be seen as a whole sentence, constructed as:
