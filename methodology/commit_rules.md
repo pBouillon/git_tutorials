@@ -13,6 +13,8 @@ needs or only pick some of them !
 - [Commit meaning](#commit-meaning)
 - [Commit theme](#commit-theme)
 
+___
+
 ### Commit length
 
 A commit should **not exceed 50 characters**. Instead of writing a long commit
@@ -36,6 +38,8 @@ Update config file
 📑 _Please note that since 50 is pretty short, and to avoir making the message_
 _harder to understand by burdening it, you generally should avoid adding a final_
 _dot to your commit._
+
+___
 
 ### Commit tenses
 
@@ -62,10 +66,12 @@ Consider doing:
 > Create MailService class    <- If I apply this commit, it will create MailService class
 ```
 
+___
+
 ### Commit meaning
 
 Don't forget that during your project, you will write plenty of commits and this
-will build your whole history. That's why, whenever you have do dig up some old
+will build your whole history. That's why, whenever you have to dig up some old
 feature push a month ago, it may be a living hell.
 
 To avoid this, try to **write meaningful and concise commit messages**,
@@ -89,13 +95,15 @@ Consider doing:
 > Fix missing exit condition in MailService method
 ```
 
+___
+
 ### Commit theme
 
 This one is more like a personal tip. Reviewing tons of commits is not the most
 pleasant task. Even when using the tips written previously, having dozens of
 short lines of text is not a very inspiring thing.
 
-To solve this, I suggest to **put a little tag in front of each commit message**
+To solve this, I suggest you to **put a little tag in front of each commit message**
 . My favorite way to use it is with emojis: it is pretty understandable by
 anyone and only use one character on the 50 recommended. Moreover, each team
 can build and use its own custom emoji list.
