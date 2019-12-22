@@ -10,9 +10,9 @@ Workflows, tips or even templates to properly develop your projects in GitLab
 and GitHub, you will find plenty of resources to exploit !
 
 - Methods
-  - [Commit rules](./methods/commit_rules.md)
-  - [Emoji commits list](./methods/emoji_commit_list.md)
-  - [Git workflow step by step](./methods/git_workflow.md)
+  - [Commit rules](./methodology/commit_rules.md)
+  - [Emoji commits list](./methodology/emoji_commit_list.md)
+  - [Git workflow step by step](./methodology/workflows/feature_branch.md)
 - Templates
   - [SCRUM](./templates/SCRUM/)
 
