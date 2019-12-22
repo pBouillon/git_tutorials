@@ -1,24 +1,21 @@
-# Git Workflow - help guide
+# Git feature branch workflow
 
 ## General
 
 **⚠** Do not **ever** push on `master`. **⚠**
 
-- Always add meaningful commits
-- Commit should use the present tense to read them as
-  `this commit will <commit msg>`. ex: `add the airport database dat file` will
-  be read as: `this commit will the airport database dat file`
-- Commit each meaningful progress; otherwise if you should commit, mark it
-  with `WiP`
-- Think about pushing on a regular basis, in order to allow others to check
-  out your progresses
+See other good practices rules on [the dedicated markdown file](https://github.com/pBouillon/git_tutorials/blob/master/methodology/commit_rules.md).
 
-## 🛠 Developing a feature
+### 🛠 Developing a feature
 
 Before starting the explanations, we will suppose that you are at the
 **root of your git project** and **on the `master` branch**.
 
-### 📍 Select an issue
+<details>
+<summary>
+📍 Select an issue
+</summary>
+<p>
 
 In this tutorial, we will be assuming that you are working on the issue:
 `#9 improve unit tests`.
@@ -28,9 +25,15 @@ Please note a few important things on each issue:
 - The issue number, as `#<number>`
 - Its message
 
-We will be constructing our workflow using those information.
+We will be initializing our workflow using those informations.
+</p>
+</details>
 
-### 🔧 Starting to work on the issue
+<details>
+<summary>
+🔧 Starting to work on the issue
+</summary>
+<p>
 
 Start by gathering the latest changes: `git pull` or `git pull --all`
 
@@ -44,8 +47,14 @@ So let's go ahead and create it: `git branch 9-improve-unit-test`.
 That's it ! Let's switch to our branch: `git checkout 9-improve-unit-test`.
 Just to be sure, you can type: `git branch` and see all branches and your
 current branch (which should be the one you just created).
+</p>
+</details>
 
-### 🚧 Working on your feature
+<details>
+<summary>
+🚧 Working on your feature
+</summary>
+<p>
 
 Work on all your features and implementations, and don't forget to commit each
 meaningful change. If you just achieved an improvement, use `git status` to see
@@ -60,8 +69,14 @@ For example: `git commit -m "document all existing tests"`.
 
 Finally, push your local changes to your branch: `git push origin <target>`.
 Here this will be: `git push origin 9-improve-unit-test`.
+</p>
+</details>
 
-### 🎁 Finishing your development
+<details>
+<summary>
+    🎁 Finishing your development
+</summary>
+<p>
 
 Well done ! Everything's fine and you're done with the development for this
 issue. Do you last commits, pushes and go ahead !
@@ -72,7 +87,7 @@ Before continuing, merge master in your branch to gather all the latest commits:
 - `git pull`: update master with the last version
 - `git checkout <your branch>`: go back to your branch
 - `git merge master`: import all changes from master in your branch
-  (conflicts may happen)
+(conflicts may happen)
 
 Go on `GitLab > your_project > Merge Requests > New merge request`.
 
@@ -86,15 +101,17 @@ Fill all relevant fields:
 
 - Title: (should be already filled)
 - Description: what did you do to solve your issue; what changed ? Add
-  `Closes #<issue number>` to instantly close the issue when the merge request
-  will be merged
+`Closes #<issue number>` to instantly close the issue when the merge request
+will be merged
 - Assignee: assign the person who will be reviewing your code and validate it
 - Milestone: is your issue related to any milestone ? Clic on the dropdown list
-  to specify it
+to specify it
 - Labels: (should be filled by the issue labels)
 - Approvers: additional people required to approve your merge request before it
-  could be merged
+could be merged
 
-Then clic on `Submit merge request`.
+Then clic on `Submit merge request` and pray for your CI not to break.
 
-🏆 That's it !
+🏆 That's it, time to move on your next issue !
+</p>
+</details>
