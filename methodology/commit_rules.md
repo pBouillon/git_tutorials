@@ -35,7 +35,7 @@ Update config file
 - Update server IP address
 ```
 
-📑 _Please note that since 50 is pretty short, and to avoir making the message_
+📑 _Please note that since 50 is pretty short, and to avoid making the message_
 _harder to understand by burdening it, you generally should avoid adding a final_
 _dot to your commit._
 
@@ -53,17 +53,17 @@ following examples !)
 Instead of:
 
 ```text
-> Refactored the source code  <- If I apply this commit, it will refactored the source code
-> Translated homepage         <- If I apply this commit, it will translated homepage
-> Created MailService class   <- If I apply this commit, it will created MailService class
+> Refactored the source code  <- If applied this commit will refactored the source code
+> Translated homepage         <- If applied this commit will translated homepage
+> Created MailService class   <- If applied this commit will created MailService class
 ```
 
 Consider doing:
 
 ```text
-> Refactor the source code    <- If I apply this commit, it will refactor the source code
-> Add homepage translation    <- If I apply this commit, it will add homepage translation
-> Create MailService class    <- If I apply this commit, it will create MailService class
+> Refactor the source code    <- If applied this commit will refactor the source code
+> Add homepage translation    <- If applied this commit will add homepage translation
+> Create MailService class    <- If applied this commit will create MailService class
 ```
 
 ___
