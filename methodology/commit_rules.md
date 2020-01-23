@@ -111,7 +111,7 @@ can build and use its own custom emoji list.
 This is also a good way to go back to a specific moment (were you looking for
 documentation ? Bug fixing ? etc.)
 
-If you want a ready-to-use list, I suggest you to [check my emoji list](https://github.com/pBouillon/git_tutorials/blob/master/methods/emoji_commit_list.md)
+If you want a ready-to-use list, I suggest you to [check my emoji list](https://github.com/pBouillon/git_tutorials/blob/master/methodology/emoji_commit_list.md)
 which is limited to 10 emojis to avoid confusion among the team.
 
 ```text
