@@ -1,4 +1,4 @@
-# ${1: (short !) Title of the story}
+# ${1: (short !) Story title}
 
 ## Context
 
@@ -11,9 +11,9 @@ ${3: Issue summary}
 | Fait | Point concerné | Justification |
 |:----:|:---------------|:--------------|
 | ✔  | Desirable         | What justify that this issue is in this specific sprint (priority, needs, etc.) |
-| ✔  | Decomposed        | This is not a whole story or an epic |
-| ✔  | Debated           | The team agreed that this issue is minimal and splitted among several other issues |
-| ❌ | Derisected        | Experts or resources to consult on difficulty |
+| ✔  | Deconstructed     | This is not a whole story or an epic |
+| ✔  | Debated           | The team agreed that this issue is minimal and split among several other issues |
+| ❌ | Safe              | Experts or resources to consult on difficulty |
 | ✔  | DoD               | The DoD is written and defined|
 | ✔  | Demonstrable      | What should the outcome be / How to demonstrate it ? |
 
