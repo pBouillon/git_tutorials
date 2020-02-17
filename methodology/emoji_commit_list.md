@@ -14,7 +14,7 @@ regarding the commit theme.
 |  ⚙️️  | Configuration    | `⚙️️ Add appsettings.json file` |
 |  🗑   | Deletion         | `🗑 Remove outdated tests` |
 |  📚  | Documentation    | `📚 Document all FooBarService methods` |
-|  🌱  | Initializatition  | `🌱 Initial commit` |
+|  🌱  | Initialization  | `🌱 Initial commit` |
 |  🛠  | Merge  | `🛠 Merge master into current branch` |
 |  ✨  | New feature      | `✨ Add png support` |
 |  🎯  | Refactoring      | `🎯 Refactor JohnDoeFactory` |
