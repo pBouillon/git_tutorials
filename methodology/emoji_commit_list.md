@@ -8,12 +8,12 @@ regarding the commit theme.
 
 ## List
 
-| emoji | theme            | example                                 | emojicode             |
+| emoji | theme            | example                                 | emoji code            |
 |:-----:|:-----------------|:----------------------------------------|:----------------------|
 |  🐛  | Bug fixing       | `🐛 Fix invalid regex format`           | `:bug:`               |
-|  ⚙️️  | Configuration    | `⚙️️ Add appsettings.json file`          |`:gear:`               |
+|  ⚙️️  | Configuration    | `⚙️️ Add appsettings.json file`          | `:gear:`              |
 |  🗑   | Deletion         | `🗑 Remove outdated tests`               | `:wastebasket:`       |
-|  📚  | Documentation    | `📚 Document all FooBarService methods` |`:books:`              |
+|  📚  | Documentation    | `📚 Document all FooBarService methods` | `:books:`             |
 |  🌱  | Initialization   | `🌱 Initial commit`                     | `:seedling:`          |
 |  🛠  | Merge             | `🛠 Merge master into current branch`   | `:hammer_and_wrench:` |
 |  ✨  | New feature      | `✨ Add png support`                    | `:sparkles:`          |
