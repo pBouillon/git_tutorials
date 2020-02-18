@@ -8,18 +8,18 @@ regarding the commit theme.
 
 ## List
 
-| emoji | theme            | example |
-|:-----:|:-----------------|:--------|
-|  🐛  | Bug fixing       | `🐛 Fix invalid regex format` |
-|  ⚙️️  | Configuration    | `⚙️️ Add appsettings.json file` |
-|  🗑   | Deletion         | `🗑 Remove outdated tests` |
-|  📚  | Documentation    | `📚 Document all FooBarService methods` |
-|  🌱  | Initialization  | `🌱 Initial commit` |
-|  🛠  | Merge  | `🛠 Merge master into current branch` |
-|  ✨  | New feature      | `✨ Add png support` |
-|  🎯  | Refactoring      | `🎯 Refactor JohnDoeFactory` |
-|  ✅  | Test             | `✅ Add DatabaseService unit tests` |
-|  🚧  | Work In Progress | `🚧 WiP Add dependency injection` |
+| emoji | theme            | example                                 | emojicode             |
+|:-----:|:-----------------|:----------------------------------------|:----------------------|
+|  🐛  | Bug fixing       | `🐛 Fix invalid regex format`           | `:bug:`               |
+|  ⚙️️  | Configuration    | `⚙️️ Add appsettings.json file`          |`:gear:`               |
+|  🗑   | Deletion         | `🗑 Remove outdated tests`               | `:wastebasket:`       |
+|  📚  | Documentation    | `📚 Document all FooBarService methods` |`:books:`              |
+|  🌱  | Initialization   | `🌱 Initial commit`                     | `:seedling:`          |
+|  🛠  | Merge             | `🛠 Merge master into current branch`   | `:hammer_and_wrench:` |
+|  ✨  | New feature      | `✨ Add png support`                    | `:sparkles:`          |
+|  🎯  | Refactoring      | `🎯 Refactor JohnDoeFactory`            | `:dart:`              |
+|  ✅  | Test             | `✅ Add DatabaseService unit tests`     | `:white_check_mark:`  |
+|  🚧  | Work In Progress | `🚧 WiP Add dependency injection`       | `:construction:`      |
 
 ## Contribution
 
